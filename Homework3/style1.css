@@ -4,55 +4,37 @@
     background: black;
     padding: 8px 8px;
     font-size: 0;
-    
 }
 
 .block1 {
     width: 640px;
     height: 80px;
-    background: orange;
-    
-    
+    background: orange;  
 }
+
 .block2 {
     width: 160px;
     height: 338px;
     background: red;
-    display: inline-block;
     float: left;
-    
 }
 
 .block3 {
     width: 160px;
     height: 338px;
     background: green;
-    display: inline-block;
     float: left;
-    
 }
 
 .block4 {
     width: 160px;
     height: 338px;
     background: blue;
-    display: inline-block;
     float: left;
-   
 }
 
 .block5 {
     width: 160px;
     height: 338px;
-    background: black;
-    display: inline-block;
-    
-}
-
-.block6 {
-    width: 640px;
-    height: 80px;
-    background: orange;
-    
-
+    background: black   
 }
