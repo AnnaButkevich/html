@@ -1,0 +1,34 @@
+.box {
+    width: 640px;
+    height: 500px;
+    background: black;
+    padding: 8px 8px;
+    font-size: 0;
+}
+.block1 {
+    width: 640px;
+    height: 80px;
+    background: orange;
+    clear: both;
+}
+.box-2{
+    display: flex;
+}
+.dim{
+    width: 160px;
+    height: 338px;
+}
+.block2 {
+    background: red;
+}
+
+.block3 {
+    background: green;
+}
+
+.block4 {
+    background: blue;
+}
+
+.block5 {
+    background: black;
