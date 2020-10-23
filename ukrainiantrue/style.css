@@ -10,6 +10,7 @@
     font-size: 11px;
 }
 .header{
+    height: 87px;
     background:#7e0019 ;
     padding: 12px o;
 }
@@ -20,16 +21,16 @@
     text-align: center;
 }
 .all_section{
-    margin: 28px 10px 0px ;
+    margin: 33px 10px 0px ;
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: 800;
     font-size: 12px;
     color: white;
     text-transform: uppercase;
 }
 .title{
     width: 950px;
-    margin: 15px 10px 0;
+    margin: 20px 10px 0;
     color: white;
     font-family: "Fira Code";
     font-weight: bold;
@@ -37,15 +38,16 @@
     font-size: 30px;
 }
 .btn{
-    margin: 20px 10px 0;
+    margin: 25px 10px 0;
     padding: 5px 8px;
     color: white;
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: 800;
     font-size: 12px;
     text-transform: uppercase;
     border: white solid 2px ;
     border-radius: 20px;
+    background: #c44949;
 }
 .main_logo_info{
     color: white;
@@ -60,13 +62,16 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 7px 15px;
     text-transform: uppercase;
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: 800;
+    line-height: 1.4;
     font-size: 14px;
     border-bottom: gray solid 1px;
 }
 .nav{
     padding: 10px 15px 8px;
+}
+.nav1{
+    color: #900022;
 }
